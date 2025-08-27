@@ -1,0 +1,16 @@
+{
+  "name": "short-video-rank",
+  "version": "1.0.0",
+  "description": "短剧排行榜与Quark网盘链接匹配工具",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --pageSize 10"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  },
+  "keywords": ["短剧", "排行榜", "quark", "网盘"],
+  "author": "",
+  "license": "MIT"
+} 

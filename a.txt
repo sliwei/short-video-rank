@@ -1,0 +1,43 @@
+https://playlet-applet.dataeye.com/playlet/listHotRanking?pageId=1&pageSize=30&month=2025-06
+
+{
+    "id": 1756267116315,
+    "statusCode": 200,
+    "page": {
+        "pageId": 1,
+        "pageSize": 30,
+        "totalRecords": 1063
+    },
+    "content": [
+        {
+            "ranking": 1,
+            "playletId": 1040378,
+            "playletName": "人面桃花长相忆",
+            "relatedParty": null,
+            "totalConsumeNum": 67496000,
+            "consumeNum": 53350000,
+            "newFlag": true,
+            "topNum": 1,
+            "coverOss": "https://adxvideo.dataeye.com/809/292f64de83df970942db9bfe0321d904.jpeg?auth_key=1756268916-0-jcc_0-7f378403c74c8574d50d04dfa1fd7fc1",
+            "relatedPartyCompany": [
+                "河马"
+            ],
+            "contractorCompany": [
+                "西安匣子"
+            ],
+            "copyrightHolderCompany": [],
+            "playletTags": [
+                "逆袭",
+                "都市日常",
+                "现言甜宠"
+            ],
+            "unifiedPlayletId": 147858,
+            "overseasPlayletName": "聞先生，你認錯太太了"
+        }
+    ]
+}
+
+32019-你有金手指，本夫人专治外挂&你有金手指本夫人专治外挂（71集）王路晴&曾乙同,https://pan.quark.cn/s/0f0f3dd0db9f,https://pan.baidu.com/s/1-julbSokLt6lillQ28x6Sw?pwd=uvaq,,,,,
+32020-穿越后！我帮小祖宗振兴家族&穿越后我帮小祖宗振兴家族（70集）李思言,https://pan.quark.cn/s/694a623bd642,https://pan.baidu.com/s/1mCpVocikZuq_t2z-CMEqGA?pwd=mf2m,,,,,
+32021-灵泉空间：劝寡母分家后养大弟妹&灵泉空间劝寡母分家后养大弟妹（112集）王依海&刘盈,https://pan.quark.cn/s/a8728eb0541c,https://pan.baidu.com/s/1DDjaOxpgcPAF0bD2TSJ4Yw?pwd=y3u9,,,,,
+32022-极P芝M官（50集）,https://pan.quark.cn/s/ab6f0b197249,https://pan.baidu.com/s/1ynECRxeJdRq5ZqYTqQZbpQ?pwd=qnm4,,,,,
